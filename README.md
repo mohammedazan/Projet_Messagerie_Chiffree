@@ -37,15 +37,15 @@ python main.py
 
 Exemple de session CLI :
 ```
-=== نظام المراسلة المشفرة ===
-1) إنشاء مفتاح AES
-2) تشفير رسالة
-3) فك تشفير رسالة
-4) خروج
+=== Système de Messagerie Chiffrée ===
+1) Créer une clé AES
+2) Chiffrer un message
+3) Déchiffrer un message
+4) Quitter
 
-اختر رقم العملية: 2
-أدخل الرسالة المراد تشفيرها: مرحبًا بكم!
-تم تشفير وحفظ الرسالة بنجاح.
+Chno bghiti dir? 2
+Kteb l'message li bghiti tchiffri: مرحبا بكم!
+L'message tchiffra w t7fad b njah!
 ```
 
 ### Interface graphique (GUI)
