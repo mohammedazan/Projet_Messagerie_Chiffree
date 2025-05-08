@@ -23,7 +23,7 @@ def generate_key():
         bytes: المفتاح المُنشأ
     """
     if os.path.exists(KEY_FILE):
-        print(f"Wach l'fichier {KEY_FILE} kayn déja? Ghir n'utilisawh!")
+        print(f"L'fichier {KEY_FILE} kayn déja? Ghir n'utilisawh!")
         return load_key()
     
     # إنشاء مفتاح AES-256 (32 بايت)

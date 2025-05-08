@@ -8,14 +8,62 @@
 
 ## 🌟 Présentation du projet
 
-Ce mini-projet consiste à créer un **système de messagerie sécurisé** permettant à deux utilisateurs d’échanger des messages **chiffrés avec AES**.  
+Ce mini-projet consiste à créer un **système de messagerie sécurisé** permettant à deux utilisateurs d'échanger des messages **chiffrés avec AES**.  
 Nous utilisons l'algorithme **AES-GCM**, reconnu pour sa **sécurité**, sa **rapidité** et sa **fiabilité**.
+
+---
+
+## 📥 Installation
+
+1. Clonez le dépôt :
+```bash
+git clone [URL_DU_REPO]
+cd messagerie_chiffree
+```
+
+2. Installez les dépendances :
+```bash
+pip install cryptography
+```
+
+---
+
+## 🚀 Utilisation
+
+### Interface en ligne de commande (CLI)
+```bash
+python main.py
+```
+
+Exemple de session CLI :
+```
+=== نظام المراسلة المشفرة ===
+1) إنشاء مفتاح AES
+2) تشفير رسالة
+3) فك تشفير رسالة
+4) خروج
+
+اختر رقم العملية: 2
+أدخل الرسالة المراد تشفيرها: مرحبًا بكم!
+تم تشفير وحفظ الرسالة بنجاح.
+```
+
+### Interface graphique (GUI)
+```bash
+python gui.py
+```
+
+L'interface graphique offre :
+- 📝 Champ de saisie pour les messages
+- 📤 Bouton d'envoi pour chiffrer
+- 📥 Bouton de réception pour déchiffrer
+- 📋 Historique des messages
 
 ---
 
 ## 🧱 Fonctionnalités principales
 
-✅ Génération automatique d’une clé de chiffrement sécurisée  
+✅ Génération automatique d'une clé de chiffrement sécurisée  
 ✅ Sauvegarde de la clé dans un fichier `.key`  
 ✅ Chiffrement & déchiffrement des messages texte  
 ✅ Envoi/réception de messages via la ligne de commande (CLI)  
@@ -39,10 +87,10 @@ Nous utilisons l'algorithme **AES-GCM**, reconnu pour sa **sécurité**, sa **ra
 
 | Semaine | Tâches prévues |
 |--------|----------------|
-| 1️⃣ | Étude de l’AES et génération de la clé |
+| 1️⃣ | Étude de l'AES et génération de la clé |
 | 2️⃣ | Implémentation du chiffrement/déchiffrement |
 | 3️⃣ | Système de messagerie en CLI |
-| 4️⃣ | Intégration de l’interface Tkinter |
+| 4️⃣ | Intégration de l'interface Tkinter |
 | 5️⃣ | Tests, documentation et finalisation du projet |
 
 ---
@@ -55,7 +103,7 @@ Une clé AES (256 bits) est générée automatiquement et stockée localement da
 
 ## 🎨 Interface graphique (optionnelle)
 
-L’interface sera développée avec **Tkinter** pour une expérience utilisateur plus agréable :  
+L'interface sera développée avec **Tkinter** pour une expérience utilisateur plus agréable :  
 🖼️ Fenêtre intuitive → 📤 Champ de saisie → 📨 Zone d'affichage des messages chiffrés/déchiffrés
 
 ---
@@ -67,13 +115,27 @@ messagerie_chiffree/
 ├── main.py
 ├── crypto_utils.py
 ├── key_manager.py
-├── gui.py (optionnel)
+├── gui.py
+├── tests/
+│   └── test_crypto.py
 ├── messages/
 │   ├── sent.txt
 │   └── received.txt
 ├── secret.key
 └── README.md
 ```
+
+## 🧪 Tests
+
+Exécutez les tests unitaires :
+```bash
+python -m unittest tests/test_crypto.py
+```
+
+Les tests vérifient :
+- ✅ Génération correcte de la clé AES
+- ✅ Chiffrement et déchiffrement des messages
+- ✅ Intégrité des données
 
 ---
 
@@ -87,7 +149,7 @@ messagerie_chiffree/
 ## ❤️ Remerciements
 
 Un grand merci à notre professeure pour son encadrement et ses conseils précieux.  
-Ce projet nous permet de plonger dans l’univers passionnant de la **cybersécurité**.
+Ce projet nous permet de plonger dans l'univers passionnant de la **cybersécurité**.
 
 ---
 
