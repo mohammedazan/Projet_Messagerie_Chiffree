@@ -1,0 +1,15 @@
+iL2B6UpeiRu2u87UiBj/5Ede2UD3JSH9rJgMZA==|+54vWVnOefr/hC6R|jqu3Rmf8xKufXmzbOHHOAA==
+{"text": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645", "timestamp": 1747237697.602751, "ciphertext": "BvZulIz21aLM0bEXoeDj8VMePzp2qBM=", "nonce": "KNzRn3KYaurgxJAW", "tag": "M3HxO09fQGWbIcoqAar5LA=="}
+{"text": "test", "timestamp": 1747238088.850674, "ciphertext": "oQ+iKQ==", "nonce": "Gdc1jsZHAeBoxmBK", "tag": "+RSWpKVioHpYnhrfS/fVWA=="}
+{"text": "tets", "timestamp": 1747238676.85777, "ciphertext": "YyduOQ==", "nonce": "WSqe1qYEtqToVg0d", "tag": "5lE/jrSBo54CtSbSikNWdg=="}
+{"text": "tets", "timestamp": 1747238823.891704, "ciphertext": "TMfrUQ==", "nonce": "BzBlmQjeUIfVs1UQ", "tag": "lscmnyEU/VCfhrBsqCTnZA=="}
+{"text": "test messages", "timestamp": 1747238839.523464, "ciphertext": "xzEJpBLwvUCcJXrvug==", "nonce": "Bsc8B6HXKGCjQPTZ", "tag": "st+O3GcDB4h1wo45DOPCIA=="}
+{"text": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644", "timestamp": 1747239121.359004, "ciphertext": "d/Sf9e/LHvDD+hftt+KpBLk=", "nonce": "+OG9qJeNgluwcBHn", "tag": "v2Pi/FZTabQRy6Mr3ATXlw=="}
+hJBAewf6YQ0=|UkiFhPzq5Tzx1RMa|dfgvSQbGxZ3L+VL4LI3FZw==
+Hc9AlATHmA==|3stAwaj1EHuUUPn+|qG26gG5XVsuL9hqmS8mGzA==
+/M+RLLh1|sqrVvg1aAv6VhMGR|Rq+ILj5cx58Q8/XXNIdaUQ==
+mO+CWz7hZrf60Pdl4AJVpEU2ZuIsw+wyqyNIt9WrhOcrfvN8da0AA5yvlB99lW2hT4q/BXk=|57GVTxwvcWX/vgjf|22VX0HsoyAxoKtFqwANPRA==
+tXdm|wAH71drsMsWk+Nla|dhN35LdSeQ1euLlZHhuVKQ==
+iFRU6w==|BwbVWPszAVp6ueTK|Dj3GwOmCtZPZPZyfBS9nVg==
+PIJbvU811TfDpRQmSCvaRQQKpg==|eUb3YANeiRt+FQAa|ZB1LPeAuINFKiutvd6ixzg==
+oIvSZGBuoX4axg==|z/k71/1+eg4fQYYh|G5bmjTahigc5GL8VagHljg==

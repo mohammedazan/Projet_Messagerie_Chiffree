@@ -1,0 +1,9 @@
+gPVh4TgheN1PwvFxOS76c7jB/ffA+oVkat/xcA==|miMOW9AIasKluNTX|EwMMlcbDrNxfUblQr9FZ4w==
+{"text": "\u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0633\u0644\u0627\u0645 \u0648\u0627\u0644\u062d\u0631\u0645\u0629", "timestamp": 1747237716.637575, "ciphertext": "Z0475d/LKSLAo9rNQvS2JpQCag5bJs07C2zbcBRt61Sx5i4QD98=", "nonce": "gFyMjvw5JscDgMA3", "tag": "DS3DJlw12/wgkCFIggA5JA=="}
+{"text": "test text", "timestamp": 1747238112.31595, "ciphertext": "dWssVIsZgWZF", "nonce": "xGqrCbMxvdONeEXC", "tag": "n7eKRHClcYCJWJ+NQFhJZw=="}
+{"text": "test affichages", "timestamp": 1747238850.59998, "ciphertext": "cN72VR/FDlvd2cuALJRF", "nonce": "DjfK0Fp07esHGy5R", "tag": "TlajEDHlpNXyoFGQIHxefg=="}
+{"text": "\u0627\u0644\u062d\u0645\u062f \u0644\u0644\u0647", "timestamp": 1747239138.688152, "ciphertext": "XtxHmFT176wAjW5hIRh13MY=", "nonce": "MDzzQvc8PlFdAczL", "tag": "kHyZYKdFRerMPqFsKFStjQ=="}
+imKAkninUvDVuPI=|AAgegeeAAkrKl/lX|5Aj8gXw3BqnCb6ZOa938Hg==
+HHTBrE5RIVxgGOfRoQ9NZzxEpg==|sp6p0GkDpEKxgbxW|qJPh2dxAvv9o5J2dwEc2hw==
+DRbjjcA3WD4LfqcQFE+zP79B6v2i0+8=|SY8kgyrhPaSwVN7N|J/MAVpy+qJo7z/75SwlhEw==
+na7iI5kZz5ISeGsm|GdhtF/UFr5V9HdY0|cL19WQi+HD/qGPXhc7rd5w==
